@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/setting/setting"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#3e97dc",
+    "navigationBarBackgroundColor": "#3e97dc",
+    "navigationBarTitleText": "天气达人",
+    "navigationBarTextStyle": "#ffffff"
+  }
+}
